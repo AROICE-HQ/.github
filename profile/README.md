@@ -14,12 +14,12 @@ AROICE HQ is a home for experimental ideas, personal productivity tools, and tho
 
 ### 🤝 Support the Mission  
 
-If you find value in our tools or ideas, consider supporting the journey. Every contribution helps fuel deeper work, better products, and open knowledge for all. 🌱
+If you find value in our tools or ideas, consider supporting the journey. <br>Every contribution helps fuel deeper work, better products, and open knowledge for all. 🌱
 
 **Sponsor Options:**  
 - 💳 **[Razorpay](https://razorpay.me/@aroice)**
 - 💖 **[GitHub Sponsors](https://github.com/sponsors/Aryan-Techie)**
-- 🪙 **Ethereum Wallet: `0xF0ADDBFe28223711c05A6969F8cB4645348b44a6`**
+- 🪙 **Ethereum Wallet:** `0xF0ADDBFe28223711c05A6969F8cB4645348b44a6`
 
 ---
 
