@@ -6,7 +6,7 @@ AROICE HQ is a home for experimental ideas, personal productivity tools, and tho
 ---
 
 ### 🚀 Featured Projects  
-- [**Smart Scroll**](https://smart-scroll.aroice.in) – Turn your volume knob into a customizable scroll wheel.  
+- [**MonkeyBar**](https://monkeybar.aroice.in) – A beautiful GNOME Shell extension for Monkeytype enthusiasts
 - [**Insight Journal**](https://blogs.aroice.in) – Essays, systems, and deep dives on tech & thought.  
 - [**Argon**](https://argon.aroice.in) – Chrome extension to reclaim your focus.
 - [**Ashes**](https://ashes.aroice.in) – New Tab Reimagined
