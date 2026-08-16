@@ -13,6 +13,11 @@ AROICE HQ is a home for experimental ideas, personal productivity tools, and tho
   
 ---
 
+### 🧰 Other Projects
+- [**Todoist for Omarchy**](https://github.com/Aryan-Techie/omarchy-todoist) – A keyboard-first Todoist bar widget for the Omarchy Linux desktop.
+
+---
+
 ### 🤝 Support the Mission  
 
 If you find value in our tools or ideas, consider supporting the journey. <br>Every contribution helps fuel deeper work, better products, and open knowledge for all. 🌱
