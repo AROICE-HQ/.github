@@ -10,6 +10,7 @@ AROICE HQ is a home for experimental ideas, personal productivity tools, and tho
 - [**Insight Journal**](https://blogs.aroice.in) – Essays, systems, and deep dives on tech & thought.  
 - [**Argon**](https://argon.aroice.in) – Chrome extension to reclaim your focus.
 - [**Ashes**](https://ashes.aroice.in) – New Tab Reimagined
+- [**Waynergy**](https://github.com/Aryan-Techie/omarchy-waynergy-plugin) – One-click keyboard/mouse sharing (KVM) bar widget for the Omarchy Linux desktop.
   
 ---
 
